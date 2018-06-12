@@ -8,4 +8,4 @@ Note that if a user only places particles of very small charge (like +1, or -1),
 
 To simplify this model, particles that collide with each other will annihilate each other. This does not necessarily happen in nature, but it serves to simplify the simulation. Another simplification made in this simulation is that all particles have the same mass. 
 
-### The simulation is hosted [here](https://clivejj.github.io/)
+### The simulation is hosted [here](https://clivejj.github.io/ElectricFeel/)
